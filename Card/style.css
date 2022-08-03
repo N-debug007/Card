@@ -1,0 +1,45 @@
+body {
+  height: 80%;
+  width: 300px;
+  font-size: larger;
+}
+section {
+  display: grid;
+  border: 1px solid grey;
+  padding: 20px;
+  position: relative;
+}
+.one {
+  padding: 50px;
+  padding-right: 65px;
+  height: 75px;
+  background-color: lightslategray;
+  text-align: center;
+  color: white;
+}
+h3 {
+  height: 1px;
+}
+.two {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.three {
+  height: 30px;
+  padding-top: 0;
+}
+.four {
+  height: 30px;
+  padding-top: 0;
+}
+.five {
+  height: 30px;
+  padding-top: 0;
+}
+.six {
+  height: 20px;
+  padding-right: 120;
+  text-align: center;
+  word-wrap: break-word;
+  border: inline;
+}
