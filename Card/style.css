@@ -38,8 +38,5 @@ h3 {
 }
 .six {
   height: 20px;
-  padding-right: 120;
-  text-align: center;
-  word-wrap: break-word;
-  border: inline;
+  display: block;
 }
